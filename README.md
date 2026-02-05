@@ -1,7 +1,14 @@
 # Setting Up Git and GitHub
 
-This repository documents my complete Git and GitHub setup process, including configuration, verification, and repository cloning.  
-It serves as a reference for future projects and as proof of correct Git environment setup.
+ Purpose of This Repository
+
+- Demonstrate correct Git and GitHub setup
+
+- Serve as a reusable reference
+
+- Ensure consistent Git identity across projects
+
+- Foundation for future data and engineering repositories
 
 ---
 
