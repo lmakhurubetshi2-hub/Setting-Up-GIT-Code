@@ -1,0 +1,32 @@
+
+lmakh@DESKTOP-I89OV1E MINGW64 ~/OneDrive/Desktop
+$ git config --global user.name "lmakhurubetshi2-hub"                           git config --global user.email "l.makhurubetshi2@gmail.com"
+
+lmakh@DESKTOP-I89OV1E MINGW64 ~/OneDrive/Desktop
+$ git config --global --list
+user.name=lmakhurubetshi2-hub
+user.email=l.makhurubetshi2@gmail.com
+
+lmakh@DESKTOP-I89OV1E MINGW64 ~/OneDrive/Desktop
+$ git clone https://github.com/lmakhurubetshi2-hub/Bright-Coffee-Shop-Sales-Analysis.git
+Cloning into 'Bright-Coffee-Shop-Sales-Analysis'...
+remote: Enumerating objects: 134, done.
+remote: Counting objects: 100% (33/33), done.
+remote: Compressing objects: 100% (23/23), done.
+remote: Total 134 (delta 27), reused 10 (delta 10), pack-reused 101 (from 1)
+Receiving objects: 100% (134/134), 14.47 MiB | 1.42 MiB/s, done.
+Resolving deltas: 100% (51/51), done.
+
+lmakh@DESKTOP-I89OV1E MINGW64 ~/OneDrive/Desktop
+$ cd Bright-Coffee-Shop-Sales-Analysis
+
+lmakh@DESKTOP-I89OV1E MINGW64 ~/OneDrive/Desktop/Bright-Coffee-Shop-Sales-Analysis (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+lmakh@DESKTOP-I89OV1E MINGW64 ~/OneDrive/Desktop/Bright-Coffee-Shop-Sales-Analysis (main)
+$
+
